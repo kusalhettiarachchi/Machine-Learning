@@ -1,4 +1,8 @@
 # Machine-Learning
-Practise machine learning projects.
+## Practise machine learning
+This repository includes several practise mini projects under macine learning.
+- Spam Detector
 
-This repo contains several mini projects using machnine learning and deep learning based solutions.
+## Practise deep learning
+Also several mini projects with neural networks that fall under deep learning
+- Digit Detector
